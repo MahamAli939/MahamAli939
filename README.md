@@ -1,19 +1,34 @@
-<h1 align="center"> I'm Maham Ali</h1>
-<h3 align="center">Machine Learning Engineer | AI Enthusiast | Data Science Learner</h3>
+<h1 align="center">I'm Maham Ali</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer;AI+Enthusiast;Data+Science+Learner;Building+Intelligent+Systems&center=true&width=500&height=45">
+</p>
 
 🚀 About Me
 
 - 🤖 Aspiring **Machine Learning Engineer**
 - 📊 Interested in **Machine Learning, NLP and AI**
 - 🔬 Passionate about **AI Research**
-- 🌱 Currently learning **Advanced ML & Deep Learning**
+- 🌱 Currently learning **Advanced Machine Learning & Deep Learning**
 - 🎯 Goal: Build real-world **AI solutions**
-- 
+
  🛠️ Tech Stack
 
-Python | Machine Learning | Data Science | Pandas | NumPy | Scikit-learn | NLP | Deep Learning | Data Visualization
+<p>
 
-📂 Featured Projects
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
+
+</p>
+
+
+
+ 📂 Featured Projects
 
 - Customer Churn Prediction ML Pipeline
 - AI Resume Screening System
@@ -32,15 +47,23 @@ More projects coming soon 🚀
 
 
 
-🔥 GitHub Streak
+ 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MahamAli939&theme=tokyonight)
 
 
- 📫 Contact Me
+
+ 👀 Profile Visitors
+
+![Visitor Count](https://komarev.com/ghpvc/?username=MahamAli939&color=blue)
+
+
+
+📫 Contact Me
 
 📧 Email: mahamrao780@gmail.com
-LinkedIn_Profile: https://www.linkedin.com/in/maham-ali-943387295/
+LinkedIn Profile: https://www.linkedin.com/in/maham-ali-943387295/
+
 
 
 ⭐ *Building intelligent systems using Machine Learning and AI*
