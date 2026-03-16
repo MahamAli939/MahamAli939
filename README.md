@@ -36,6 +36,17 @@
 - Fake News Detection using NLP
 - Deep Learning Recommendation System
 
+- ### Featured Machine Learning Projects
+
+<a href="https://github.com/MahamAli939/customer-churn-ml-pipeline">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahamAli939&repo=customer-churn-ml-pipeline&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/MahamAli939/fake-news-detection-nlp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahamAli939&repo=fake-news-detection-nlp&theme=tokyonight" />
+</a>
+
+
 More projects coming soon 🚀
 
 
