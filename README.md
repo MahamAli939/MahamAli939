@@ -1,16 +1,49 @@
-## Hi there 👋
+ I'm Maham Ali
 
-<!--
-**MahamAli939/MahamAli939** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Machine Learning Engineer | AI Enthusiast | Research Learner
 
-Here are some ideas to get you started:
+I am passionate about building intelligent systems using Machine Learning and Artificial Intelligence.  
+I enjoy solving real-world problems with data and continuously exploring new technologies in AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+- 🤖 Aspiring Machine Learning Engineer
+- 📊 Interested in Machine Learning, NLP, and Data Science
+- 🔬 Passionate about AI research
+- 🌱 Currently learning advanced ML and Deep Learning
+- 🎯 Goal: Build impactful AI solutions
+ 
+ 🛠️ Skills
+
+Python  
+Machine Learning  
+Data Science  
+Pandas  
+NumPy  
+Scikit-learn  
+Data Visualization  
+NLP  
+Deep Learning  
+ 📂 Featured Projects
+
+- Customer Churn Prediction ML Pipeline  
+- AI Resume Screening System  
+- Real-Time Object Detection using YOLO  
+- Fake News Detection using NLP  
+- Deep Learning Recommendation System  
+
+More projects coming soon 🚀
+
+📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahamAli939&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahamAli939&layout=compact)
+
+ 📫 Contact
+
+📧 Email: mahamrao780@gmail.com
+
+
+⭐ *Building intelligent systems with Machine Learning*
+
