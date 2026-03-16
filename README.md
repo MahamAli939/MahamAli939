@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maham Ali</h1>
+<h1 align="center"> I'm Maham Ali</h1>
 <h3 align="center">Machine Learning Engineer | AI Enthusiast | Data Science Learner</h3>
 
 🚀 About Me
