@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Maham Ali 👋</h1>
+<h1 align="center"> I'm Maham Ali </h1>
 <h3 align="center">Machine Learning Engineer | Deep Learning & Computer Vision | NLP</h3>
 
 <p align="center">
@@ -65,6 +65,5 @@
 
 - 📧 **Email:** mahamrao780@gmail.com
 - 💼 **LinkedIn:** [maham-ali-943387295](https://www.linkedin.com/in/maham-ali-943387295/)
-- 🌐 **Portfolio:** [mahamali1939.github.io/maham-ali-portfolio](https://mahamali1939.github.io/maham-ali-portfolio/)
 
 <p align="center"><i>⭐ Building intelligent, real-world machine learning systems.</i></p>
