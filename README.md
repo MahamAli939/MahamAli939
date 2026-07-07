@@ -57,7 +57,7 @@
 | Natural Disaster Damage Assessment | Satellite image segmentation for post-disaster response | Semantic Segmentation, Rasterio |
 | Skin Lesion Classification + Uncertainty Quantification | Multi-class lesion classification with Bayesian confidence scoring | Bayesian DL, TensorFlow |
 
-📎 See the full breakdown with results and metrics on my **[portfolio site](https://mahamali1939.github.io/maham-ali-portfolio/)**.
+📎 See the full breakdown with results and metrics on my **[portfolio site](https://mahamali939.github.io/maham-ali-portfolio/ )**.
 
 <a href="https://github.com/MahamAli939/customer-churn-ml-pipeline">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahamAli939&repo=customer-churn-ml-pipeline&theme=tokyonight" />
