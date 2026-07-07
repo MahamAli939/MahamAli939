@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mahamali1939.github.io/maham-ali-portfolio/" target="_blank"><b>🌐 Portfolio</b></a> ·
+  <a href="https://mahamali939.github.io/maham-ali-portfolio/" target="_blank"><b>🌐 Portfolio</b></a> ·
   <a href="https://www.linkedin.com/in/maham-ali-943387295/" target="_blank"><b>💼 LinkedIn</b></a> ·
   <a href="mailto:mahamrao780@gmail.com"><b>📧 Email</b></a>
 </p>
@@ -65,21 +65,6 @@
 <a href="https://github.com/MahamAli939/fake-news-detection-nlp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahamAli939&repo=fake-news-detection-nlp&theme=tokyonight" />
 </a>
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahamAli939&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahamAli939&layout=compact&theme=tokyonight)
-
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MahamAli939&theme=tokyonight)
-
-### 👀 Profile Visitors
-
-![Visitor Count](https://komarev.com/ghpvc/?username=MahamAli939&color=blue)
 
 ---
 
